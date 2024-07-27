@@ -1,4 +1,4 @@
-Here is the updated description for your `TouristRiskAware` project, integrated with the provided Laravel section:
+`TouristRiskAware` project, integrated with the provided Laravel section:
 
 ---
 
@@ -96,6 +96,9 @@ TouristRiskAware is a comprehensive Travel Risk Assessment website designed to p
    ```
 
 5. Configure the environment variables by copying `.env.example` to `.env` and updating as needed.
+   ```bash
+   cp .env.example .env
+   ```
 
 6. Generate application key:
    ```bash
