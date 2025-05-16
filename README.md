@@ -77,7 +77,7 @@ TouristRiskAware is a comprehensive Travel Risk Assessment website designed to p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TouristRiskAware.git
+   git clone https://github.com/Qaidsaher/TouristRiskAware.git
    ```
 
 2. Navigate to the project directory:
